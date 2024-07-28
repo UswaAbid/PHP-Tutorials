@@ -1,6 +1,7 @@
-# PHP Tutorials:
+# PHP Programming:
 
-Welcome to the PHP Tutorials repository! This collection is designed to help beginners and intermediate learners master PHP programming.
+Welcome to the PHP Tutorials repository!<br>
+Each tutorial provides clear, step-by-step instructions and practical examples to guide you through the fundamentals of PHP.
 
 ## Contributing:
 
